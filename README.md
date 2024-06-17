@@ -8,3 +8,7 @@
 - `**StorageService and its Implementation (StorageServiceImpl)**` : Service to handle file storage operations.
 - `**StorageException and StorageFileNotFoundException**` : Custom exceptions for error handling.
 - `**Thymeleaf Template (uploadForm.html)**` : HTML template for the file upload interface.
+## Key Endpoints:
+- **`@GetMapping("/")`**: Lists all uploaded files.
+- **`@GetMapping("/files/{filename:.+}")`**: Serves a file for download.
+- **`@PostMapping("/")`**: Handles file upload.
