@@ -12,3 +12,9 @@
 - **`@GetMapping("/")`**: Lists all uploaded files.
 - **`@GetMapping("/files/{filename:.+}")`**: Serves a file for download.
 - **`@PostMapping("/")`**: Handles file upload.
+![image](https://github.com/Sarthakverse/FileUploading/assets/117356021/880470b3-1204-4455-bf5a-3565d3651585)
+![image](https://github.com/Sarthakverse/FileUploading/assets/117356021/d75e9ea5-df2e-4fc9-8932-124577d0f8fb)
+![image](https://github.com/Sarthakverse/FileUploading/assets/117356021/83052ab2-8f59-4613-8b58-b3c52152db0f)
+
+
+
