@@ -3,8 +3,8 @@
 - The application uses Thymeleaf for rendering HTML views and has a structured service layer to handle file storage operations.
 
 ## Key Components
-- **StorageProperties** : Configuration properties for file storage.
-- **FileUploadController** : The main controller to handle file upload and download requests.
-- **StorageService and its Implementation (StorageServiceImpl)** : Service to handle file storage operations.
-- **StorageException and StorageFileNotFoundException** : Custom exceptions for error handling.
-- **Thymeleaf Template (uploadForm.html)** : HTML template for the file upload interface.
+- `**StorageProperties**` : Configuration properties for file storage.
+- `**FileUploadController**` : The main controller to handle file upload and download requests.
+- `**StorageService and its Implementation (StorageServiceImpl)**` : Service to handle file storage operations.
+- `**StorageException and StorageFileNotFoundException**` : Custom exceptions for error handling.
+- `**Thymeleaf Template (uploadForm.html)**` : HTML template for the file upload interface.
